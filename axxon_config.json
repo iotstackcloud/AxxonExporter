@@ -1,0 +1,21 @@
+{
+    "connection": {
+        "host": "10.202.40.50",
+        "port": 80,
+        "username": "root",
+        "password": "VoC@911992#",
+        "use_https": false
+    },
+    "export": {
+        "include_archive": true,
+        "resolution": "1920x1080",
+        "default_archive_hours_ago": 24
+    },
+    "project": {
+        "name": "Secontec GmbH",
+        "location": "Georgstr. 38\n30159 Hannover",
+        "technician": "Ingo Griskewitz",
+        "company": "Secontec GmbH",
+        "logo_path": "C:\\Users\\DominikNett\\Desktop\\Desktop alt\\SECONTEC_LOGO_RGB_Claim klein.jpg"
+    }
+}

@@ -139,14 +139,6 @@ Die API verwendet HTTP Basic Authentication. Standardmäßig:
 - **Speicherplatz**: 100 MB + Platz für PDF-Exports
 - **Netzwerk**: Zugriff auf Axxon One Server
 
-## Lizenz
-
-Copyright © 2024. Alle Rechte vorbehalten.
-
-## Support
-
-Bei Fragen oder Problemen wenden Sie sich bitte an Ihren Administrator.
-
 ## Version
 
 **Version 2.0** - Moderne Flet-basierte GUI mit verbesserter Benutzerfreundlichkeit
